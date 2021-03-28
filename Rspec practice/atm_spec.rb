@@ -1,7 +1,7 @@
 #規格(測試)如下：先改規格再改code!!!
 
 #3Ａ原則
-#arrange 	安排
+#arrange 安排
 #act 操作
 #assert 評估
 
